@@ -21,3 +21,10 @@ Python is very simple and easy to learn.
   Python has a large and active community that contributes to a vast ecosystem of third-party libraries and frameworks.
 - Dynamically Typed:
   The type of a variable is determined at runtime, not in advance. You don’t need to declare the type of a variable when you create it; you simply assign a value to it, and Python figures out the type based on the value.
+
+## Running Python Code
+Write your Python code in a text editor and save it with a .py extension, e.g., hello.py.
+You can run your code with:
+```
+python hello.py
+```
