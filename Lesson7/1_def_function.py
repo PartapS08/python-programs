@@ -32,7 +32,7 @@ print(subtract(20, 10))  # Output: 10
 print(multiply(10, 20))  # Output: 200
 print(divide(20, 10))  # Output: 2.0
 
-############ function's arguments ############
+############ function with arguments ############
 
 # Positional arguments
 # Keyword arguments
