@@ -9,6 +9,7 @@ print(a/b)
 #    print(a/b)
 #          ~^~
 # ZeroDivisionError: division by zero
+# You will see the error message like above.
 
 # Now, let's handle the exception using try-except block.
 try:
